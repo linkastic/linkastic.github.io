@@ -1,0 +1,32 @@
+---
+layout: post
+title:  2014-04-12
+date:   2014-04-12
+categories: 
+---
+
+###Parenting
+- Why teaching poetry is so important. [The Atlantic][atlantic-poetry]
+
+###Rethinking The Post Office
+- It’s Time for Postal Banking.[HLR][hlr-postal-banking]
+- Amazon starts pilot project with India post to test cash-on-delivery model. [Economic Times][et-amazon-postal]
+- Amazon can’t save the post office. [Matthew Yglesias][matt-yglesias-amazon-usps]
+
+###Technology
+- Heartbleed is a catastrophic bug in OpenSSL. [Bruce Schneier][schneier-heartbleed]
+
+###MOOC
+<p>Here are some practitioners' opinion on conducting a Massive Open Online Course:</p>
+- What I Learned by Flipping the MOOC. [Steve Blank][steve-blank-mooc]
+- Cochrane on Education and MOOCs: EconTalk Episode with John Cochrane. [EconTalk][econtalk-cochrane-mooc]
+- The MOOC stumble: Lessons from Napster and the Music Business! [Aswath Damodaran][damodaran-mooc]
+
+[atlantic-poetry]: http://www.theatlantic.com/education/archive/2014/04/why-teaching-poetry-is-so-important/360346/
+[hlr-postal-banking]: http://harvardlawreview.org/2014/02/its-time-for-postal-banking/
+[schneier-heartbleed]: https://www.schneier.com/blog/archives/2014/04/heartbleed.html
+[steve-blank-mooc]: http://steveblank.com/2014/02/11/what-i-learned-by-flipping-the-mooc/
+[econtalk-cochrane-mooc]: http://www.econtalk.org/archives/2014/03/cochrane_on_edu.html
+[damodaran-mooc]: http://aswathdamodaran.blogspot.com/2014/01/if-moocs-fail-is-online-education-done.html
+[et-amazon-postal]:http://articles.economictimes.indiatimes.com/2013-12-04/news/44757439_1_india-post-amazon-india-banking-licence
+[matt-yglesias-amazon-usps]:http://www.slate.com/articles/business/moneybox/2013/11/amazon_usps_deal_a_clever_arrangement_that_doesn_t_stop_the_post_office.html
