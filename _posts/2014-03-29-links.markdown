@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "2014-03-29"
+date:   2014-03-29
+categories: 
+---
+###Food
+- Inside the Milk Machine: How Modern Dairy Works. [moden farmer] [modern-farmer-milk]
+
+###Literature
+- Writer, historian and columnist Khushwant Singh died of cardiac arrest. He was 99. [NYT] [nyt-khushwanth], [Guardian] [guardian-khushwanth]
+
+###Parenting
+- The Overprotected Kid: A preoccupation with safety has stripped childhood of independence, risk taking, and discovery—without making it safer. A new kind of playground points to a better solution. [The Atlantic][atlantic-parenting]
+
+###Technology
+- Bitcoin itself may fail as a currency, but the underlying technology is beginning to suggest valuable new applications. [Technology Review] [tr-bitcoin]
+- Building the Google of Blood, One Tube at a Time. [New Yorker][tny-covance-lab]
+- Industrial internet as envisioned by GE. [Industrial Internet] [ge-industrial-internet], [The Industrial Internet@Work] [ge-internet-work]
+
+
+
+
+[ge-internet-work]: https://www.ge.com/sites/default/files/GE_IndustrialInternetatWork_WhitePaper_20131028.pdf
+
+[ge-industrial-internet]: http://www.ge.com/docs/chapters/Industrial_Internet.pdf
+
+[guardian-khushwanth]: http://www.theguardian.com/books/2014/mar/20/khushwant-singh
+
+[nyt-khushwanth]: http://www.nytimes.com/2014/03/21/world/asia/khushwant-singh-provocative-indian-journalist-dies-at-99.html
+
+[modern-farmer-milk]: http://modernfarmer.com/2014/03/real-talk-milk/
+
+[tr-bitcoin]: http://www.technologyreview.com/review/524691/marginally-useful/
+
+[tny-covance-lab]: http://www.newyorker.com/online/blogs/elements/2014/03/building-the-google-of-blood-one-tube-at-a-time.html
+
+[atlantic-parenting]:http://www.theatlantic.com/features/archive/2014/03/hey-parents-leave-those-kids-alone/358631/

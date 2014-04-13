@@ -1,0 +1,6 @@
+_site
+*~
+.bundle
+bin
+tags
+vendor/bundle/ruby

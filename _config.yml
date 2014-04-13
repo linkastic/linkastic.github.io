@@ -1,0 +1,15 @@
+name: Linkastic
+markdown: redcarpet
+pygments: true
+permalink: date
+google_analytics_code: UA-49342635-1
+url: http://linkastic.net
+exclude:
+- config.ru
+- Gemfile
+- Gemfile.lock
+- Rakefile
+- README.markdown
+- bin
+- public
+- vendor
