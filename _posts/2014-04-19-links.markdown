@@ -1,0 +1,27 @@
+---
+layout: post
+title:  2014-04-19
+date:   2014-04-19
+categories: 
+---
+
+###Internet Of Things
+- More than 50 billion connected devices. [Ericsson Labs][ercisson-50-billion]
+- TI helps manufacturers connect more with launch of Internet of Things (IoT) cloud ecosystem [TI][ti-iot-ecosystem]
+- Journey of ARM to 50 billion chips [ARM][ARM-50b-journey]
+
+
+###Tesla Motors
+- Will Musk’s Gigafactory Gamble Pay Off? [Technology Review][tr-musk-giga-factory]
+- The electric car company’s CTO explains what’s going on under the hood. [Technology Review][tr-tesla-cto]
+- Shut Up and Deal. [The New Yorker on NJ banning Telsa][tny-tesla-nj]
+- Letter from California: Plugged In: Can Elon Musk lead the way to an electric-car future? [The New Yorker][tny-tesla] (Subscription needed)
+
+
+[ercisson-50-billion]:http://www.ericsson.com/res/docs/whitepapers/wp-50-billions.pdf
+[ti-iot-ecosystem]:http://newscenter.ti.com/2014-04-10-TI-helps-manufacturers-connect-more-with-launch-of-Internet-of-Things-IoT-cloud-ecosystem
+[ARM-50b-journey]:http://youtu.be/k6ET-uuiWGg
+[tr-musk-giga-factory]:http://www.technologyreview.com/news/526126/does-musks-gigafactory-make-sense/
+[tr-tesla-cto]:http://www.technologyreview.com/featuredstory/524541/driving-innovation/
+[tny-tesla-nj]:http://www.newyorker.com/talk/financial/2014/04/21/140421ta_talk_surowiecki
+[tny-tesla]:http://www.newyorker.com/reporting/2009/08/24/090824fa_fact_friend
