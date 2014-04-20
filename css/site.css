@@ -128,7 +128,7 @@ pre {
  Navbar
  --------------------------------------------------------------*/
 nav {
-    padding: 0.2em;
+    padding: 0.1em;
 	border-bottom: 1px solid #ddd;
 	border-top: 1px solid #ddd;
 	font-size: 1.55em;
@@ -140,7 +140,7 @@ nav a:hover {
 
 nav .menu {
     margin-right: 0.2em;
-    padding: 0.2em;
+    padding: 0.1em;
 }
 
 /*--------------------------------------------------------------
@@ -273,7 +273,7 @@ article .video-note {
  --------------------------------------------------------------*/
 
 header {
-    padding: 1em 0em 1em 0em;
+    padding: 1em 0em 0em 0em;
 }
 
 header .dateline {
@@ -285,7 +285,7 @@ header .dateline {
 
 header h1 {
     margin: 0;
-    padding: 1em 0 0.5em 0;
+    padding: 0 0 0 0;
 }
 
 /*--------------------------------------------------------------
