@@ -1,0 +1,37 @@
+---
+layout: post
+title:  2014-05-09
+date:   2014-05-09
+categories:
+---
+
+###Sharing Economy
+
+- Peer-to-peer rental: The rise of the sharing economy | [The Economist][economist-p2p-rental]
+
+- The sharing economy: Remove the roadblocks | [The Economist][economist-remove-the-roadblocks]
+
+- The sharing economy: All eyes on the sharing economy | [The Economist][economist-all-eyes]
+
+- James Surowiecki: Consumers and the New Sharing Economy | [The New Yorker][tny-sharing]
+
+- How Airbnb and Lyft Finally Got Americans to Trust Each Other | [Wired][wired-share-economy]
+
+- Uberification of the US Service Economy | [Schlaf's Notes][Schlafs-Notes]
+
+- The Weekend Interview With Brian Chesky: The 'Sharing Economy' and Its Enemies | [WSJ][wsj-brian-chesky]
+
+- How The Sharing Economy Is Going To Turbo-Charge The Internet of Things | [IBM - Electronics industry by Paul Brody][ibm-electronics-industry]
+
+- The Sharing Economy [Audio] | [BBC - Podcasts - Peter Day's World of Business][BBC-In-Business]
+
+
+[ibm-electronics-industry]:http://insights-on-business.com/electronics/sharingiot/
+[BBC-In-Business]:http://downloads.bbc.co.uk/podcasts/radio/worldbiz/worldbiz_20140508-2100a.mp3
+[wired-share-economy]:http://www.wired.com/2014/04/trust-in-the-share-economy/
+[Schlafs-Notes]:http://schlaf.me/post/81679927670
+[economist-p2p-rental]:http://www.economist.com/news/leaders/21573104-internet-everything-hire-rise-sharing-economy
+[economist-remove-the-roadblocks]:http://www.economist.com/news/leaders/21601257-too-many-obstacles-are-being-placed-path-people-renting-things-each-other-remove
+[economist-all-eyes]:http://www.economist.com/news/technology-quarterly/21572914-collaborative-consumption-technology-makes-it-easier-people-rent-items
+[wsj-brian-chesky]:http://online.wsj.com/news/articles/SB10001424052702304049704579321001856708992
+[tny-sharing]:http://www.newyorker.com/talk/financial/2013/09/16/130916ta_talk_surowiecki
