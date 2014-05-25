@@ -1,0 +1,37 @@
+---
+layout: post
+title:  2014-05-25
+date:   2014-05-25
+categories:
+---
+
+###Cycling
+- City cycling: health versus hazard | [Mosaic][Mosaic-cycling]
+
+###Internet of Things
+
+- The Internet of Things Will Thrive by 2025 | Pew Research Center's Internet & American Life Project | [Pew Research][Pew-Research-iot]
+
+- How the Internet of Things Will Change Business
+ | [MIT Technology Review][mit-tr-iot]
+
+
+###Venture Capital
+
+- A16z Podcast: Demystifying Venture Capital | [Andreessen Horowitz][A16z-vc]
+
+- Deciphering The Economics Of Venture Capital | [TechCrunch][tc-vc]
+
+- VC Fund Economics | [AVC][avc-vc]
+
+- The Economics of a Small VC Fund | [Thisisgoingtobebig][Thisisgoingtobebig-vc]
+
+
+
+[Mosaic-cycling]:http://mosaicscience.com/story/city-cycling-health-versus-hazard
+[Pew-Research-iot]:http://www.pewinternet.org/2014/05/14/internet-of-things
+[mit-tr-iot]:http://www.technologyreview.com/news/527356/business-adapts-to-a-new-style-of-computer
+[A16z-vc]:http://a16z.com/2014/05/02/a16z-podcast-demystifying-venture-capital/
+[tc-vc]:http://techcrunch.com/2014/05/24/deciphering-the-economics-of-venture-capital/
+[avc-vc]:http://avc.com/2014/05/vc-fund-economics/
+[Thisisgoingtobebig-vc]:http://www.thisisgoingtobebig.com/blog/2014/5/12/the-economics-of-a-small-vc-fund.html
