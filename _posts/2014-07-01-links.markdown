@@ -1,0 +1,32 @@
+---
+layout: post
+title:  2014-07-01
+date:   2014-07-01
+categories:
+---
+
+##Disruptive Innovation Debate
+###The Accussation
+- Jill Lepore: What the Theory of “Disruptive Innovation” Gets Wrong
+ | [[The New Yorker]][tny-lepore]
+ 
+###The Response
+- Clayton Christensen Responds to New Yorker Takedown of 'Disruptive Innovation'
+ | [Businessweek][bw-clay]
+ 
+- Clay Christensen on the recent debate surrounding his theory of disruptive innovation. | [YouTube][hbs-clay]
+ 
+###The Explanation
+- The Disruption FAQ | [Asymco][asymco]
+
+- The New Yorker: Battle Of The Strategy Titans | [Steve Denning][denning-1]
+
+- Understanding Disruption: Insights From The History Of Business | [Steve Denning][denning-2]
+
+[tny-lepore]:http://www.newyorker.com/reporting/2014/06/23/140623fa_fact_lepore
+[bw-clay]:http://www.businessweek.com/articles/2014-06-20/clayton-christensen-responds-to-new-yorker-takedown-of-disruptive-innovation
+[asymco]:http://www.asymco.com/2014/06/25/the-disruption-faq/
+[hbs-clay]:https://www.youtube.com/watch?v=9ouwUs4QmFQ
+
+[denning-1]:http://www.forbes.com/sites/stevedenning/2014/06/19/the-new-yorker-battle-of-the-strategy-titans/
+[denning-2]:http://www.forbes.com/sites/stevedenning/2014/06/24/understanding-disruption-insights-from-the-history-of-business/
