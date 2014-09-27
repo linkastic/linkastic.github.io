@@ -8,7 +8,7 @@ categories:
 ##Disruptive Innovation Debate
 ###The Accussation
 - Jill Lepore: What the Theory of “Disruptive Innovation” Gets Wrong
- | [[The New Yorker]][tny-lepore]
+ | [The New Yorker][tny-lepore]
  
 ###The Response
 - Clayton Christensen Responds to New Yorker Takedown of 'Disruptive Innovation'
