@@ -13,3 +13,5 @@ exclude:
 - bin
 - public
 - vendor
+
+theme: jekyll-theme-minimal
